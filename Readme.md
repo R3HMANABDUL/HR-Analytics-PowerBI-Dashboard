@@ -49,7 +49,7 @@ The Executive Dashboard provides a high-level overview of the organization's wor
 
 > **HR Executive Dashboard**
 
-![HR Executive Dashboard](Screenshots/Page1_Executive_Dashboard.png)
+<img width="923" height="527" alt="HR Executitv Dashboard_Page 1 " src="https://github.com/user-attachments/assets/11348e4b-4923-4bc8-a2aa-f94cbf3860aa" />
 
 ---
 
@@ -72,7 +72,9 @@ This dashboard provides detailed employee insights related to education, experie
 
 > **Employee Profile Dashboard**
 
-![Employee Profile Dashboard](Screenshots/Page2_Employee_Profile_Dashboard.png)
+<img width="920" height="523" alt="Employee Profile Dashboard_Page 2" src="https://github.com/user-attachments/assets/845332ee-ea98-48e5-ba3c-e42168073398" />
+
+
 
 ---
 
@@ -91,11 +93,7 @@ This page allows HR users to explore employee records using interactive filterin
 ### 📷 Screenshot
 
 > **Employee Details Dashboard**
->## HR Executitv Dashboard_Page 1
-> <img width="923" height="527" alt="HR Executitv Dashboard_Page 1 " src="https://github.com/user-attachments/assets/4bf04ae9-0bd5-460c-b527-a025f50a5414" />
-## Employee Profile Dashboard_Page 2
-<img width="920" height="523" alt="Employee Profile Dashboard_Page 2" src="https://github.com/user-attachments/assets/f8438a51-79cc-486a-9b07-d39a1bdb2abf" />
-## Employee Details Dashboard_page 3
+
 <img width="869" height="486" alt="Employee Details Dashboard_page 3" src="https://github.com/user-attachments/assets/dc508833-fd48-463a-ad26-2e8c10cb6261" />
 
 ---
